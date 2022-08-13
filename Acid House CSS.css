@@ -1,0 +1,133 @@
+body{
+color: black;
+    margin: 10px;
+    padding: 10px;
+    background-image:url("https://www.80scasualclassics.co.uk/blog/wp-content/uploads/2018/04/acid-house-80s-casual-classics.jpeg");
+    background-size: cover;
+}
+
+.navbar{
+    display: inline-block;
+    font-family: verdana;
+    font-size: 25px;
+    width: 50%;
+    border: 5px solid black;
+    background-color: yellow;
+    border-radius: 28px;
+    margin: 10px 5px;
+}
+.navbar{
+    text-align: center;
+}
+.navbar li{
+    
+    display: inline-block;
+}
+
+.navbar li a{
+    color: black;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 5px 20px;
+
+}
+.navbar li a:hover{
+background-color: black;
+    color: yellow;}
+
+
+
+.right{
+    position:absolute;
+    display: inline-block;
+    top: 30px;
+    right:50px;
+}
+.btn{
+
+font-family: verdana;
+background-color: yellow;
+color: black;
+padding: 5px 10px;
+border: 5px solid black;
+font-family: verdana;
+font-size: 25px;
+cursor: pointer;
+border-radius: 28px;
+margin: 0px 20px;
+}
+
+.btn:hover{
+    background-color: black;
+    color: yellow;
+}
+
+.container{
+    font-family: verdana;
+    border: 5px solid black;
+    float: center;
+    background-image: url("https://res.cloudinary.com/teepublic/image/private/s--BaAA2J----/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1446237954/production/designs/267156_1.jpg");
+    background-size: contain; 
+    font-size: 25px;
+    border-radius: 28px;
+    align-items: center;
+    width: 90%;
+    margin: 5px;
+}
+.form-group input{
+    font-family: verdana;
+    text-align:center;
+    display: block;
+    width: 400px;
+    padding: 1px;
+    border: 5px solid black;
+    margin: 11px auto;
+    font-size:25px;
+    border-radius: 8px;
+}
+
+.container h1{
+    text-align: center;
+
+}
+.container button{
+    display: block;
+    width:25%;
+    margin: 120px auto;
+}
+ul {
+	list-style-type: none;
+	text-decoration-color: black;
+	line-height: 25px;
+	padding: 5px;
+	font-family: verdana;
+	}
+    #content {
+        background-color: yellow;
+        font-family: verdana;
+        border: 5px 0px solid black;
+        width: 50%;
+        border-radius: 28px;
+    }
+    #content{
+        border: 5px black solid;
+        text-align: center;
+    }
+    #hr{
+        border: 5px solid black;
+    }
+    .rectangle{
+        display: inline-block;
+        width: 50%;
+        height: 300px;
+        border: 5px solid black;
+        background-color: yellow;
+        border-radius: 8px;
+        margin: 5px;
+        font-family: verdana;
+        padding: 5px;
+    }
+    .video{
+        float: right;
+        margin: 5px 50px;
+    }
